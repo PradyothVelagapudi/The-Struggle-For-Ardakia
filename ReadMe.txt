@@ -1,7 +1,8 @@
 
 BLOOD-STAINED FLAGS: THE STRUGGLE FOR ARDAKIA
 Capstone Project by Pradyoth Velagapudi, 2021-2022
-https://drive.google.com/file/d/19thy6ymVWw9rImtuoBx8zl0hFIBqEUeh/view?usp=sharing
+
+READ MY REPORT HERE: https://drive.google.com/file/d/19thy6ymVWw9rImtuoBx8zl0hFIBqEUeh/view?usp=sharing
 -------------------------------------------------------------------------
 
 The following is a declassified mission document from the Huber Administration
