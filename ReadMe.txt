@@ -2,7 +2,9 @@
 BLOOD-STAINED FLAGS: THE STRUGGLE FOR ARDAKIA
 Capstone Project by Pradyoth Velagapudi, 2021-2022
 
-READ MY REPORT HERE: https://drive.google.com/file/d/19thy6ymVWw9rImtuoBx8zl0hFIBqEUeh/view?usp=sharing
+This interactive wargame simulation was created as part of a year-long research project
+into military theory on irregular and insurgent warfare.
+READ MY PAPER HERE: https://drive.google.com/file/d/1AkQUF2fywNdL5s4WRJEzXakpn-Vs_V01/view
 -------------------------------------------------------------------------
 
 The following is a declassified mission document from the Huber Administration
@@ -17,25 +19,27 @@ MISSION BRIEF: OPERATION IRON BALLAST]
 [27 April 1991]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-Greetings, General. Hope you had a pleasant flight. It's an honor to have you onboard with us, sir.
+Greetings, General. Hope you had a pleasant flight. It's an honor to have you onboard with us.
 
 Here's the situation as it stands, sir. The Ardakian premier has requested President Huber for 
 United Federation aid in dealing with a local insurgent problem. Some rebel movement that 
-call themselves the Volkov Liberation Front. Their stated goal is apparently to overthrow and supplant 
-the republican government and establish some crackpot radicalist regime; you know, pretty standard stuff. 
-Now, normally we wouldn't get too involved in a God-forsaken civil conflict like this, but our intelligence 
-suggests that if the VLF gets too strong, there's a good chance they'll start recieving the backing of our 
-old friends in Rusovia. Now if it's a question of keeping Federatsiya influence out of the region, then I 
-think it's best to nip this little rebellion in the bud before it grows out of control.
+calls themselves the Volkov Liberation Front. Their stated goal is to overthrow and supplant 
+the republican government and establish some crackpot radicalist regime; you know, the usual. 
+Now, normally we wouldn't get too involved in an overseas civil conflict like this, but our intelligence 
+suggests that if the VLF gets too strong, there's a good chance they'll start recieving backing from our 
+old rivals in Rusovia. Now if it's a question of keeping Federatsiya influence out of the region, then I 
+think it's best we nip this little rebellion in the bud before it grows out of control.
 
 As President Huber's foremost expert on COIN doctrine, you've been appointed military attache to the 
 Ardakian government. The Ardakians want you in an advisory position to direct their counterinsurgency 
 efforts against the VLF. Given the abysmal state of their military leadership, we've arranged for you
 to have virtually unlimited command authority over all facets of the counterinsurgency effort.
 
-At your disposal is our brand spanking new mapping/modelling software, FreedomSys. Produced on 
+At your disposal is our experimental new mapping and modelling software, FreedomSys. Produced on 
 top secret contract by our good friends at the Velagapudi Foundation. Set us back a couple million, but 
 it ought to make the job of coordinating a nationwide COIN effort much easier on you.
+
+TUTORIAL
 
 Now, Ardakia has 18 major towns. Each town has 3 values:
 - Loyalty
@@ -56,7 +60,7 @@ You have several actions you can take in each town. These are:
 All of these actions require money. Luckily, you've got tax money flowing in every month, denominated in Ardakian Napsars.
 Your total monthly tax input is the sum of the tax input from all towns.
 
-The amount of money a town produces each month is equal to its development level-- for instance, a town with development 4, it will 
+The amount of money a town produces each month is equal to its development level-- for instance, a town with development level 4 will 
 produce 4 Napsars a month.
 However, the government does not earn all of the tax money from a town. You will only receive the amount of money from a town 
 proportional to your loyalty there. For instance, if a town has a development value of 4, it will produce a total of 4 Napsars a month; 
@@ -73,6 +77,6 @@ The insurgents also have many actions they can take to undermine your efforts. I
 
 Now you're fully debriefed, sir. I trust that your years of expertise will allow you to put down 
 the terrorist threat swiftly. The peace and freedom of an entire country rests in your hands, sir. 
-Ardakia is counting on you!
+The Republic of Ardakia is counting on you!
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
