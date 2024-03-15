@@ -5,6 +5,9 @@ Capstone Project by Pradyoth Velagapudi, 2021-2022
 This interactive wargame simulation was created as part of a year-long research project
 into military theory on irregular and insurgent warfare.
 READ MY PAPER HERE: https://drive.google.com/file/d/1AkQUF2fywNdL5s4WRJEzXakpn-Vs_V01/view
+
+TO PLAY: Download CapstoneRTS.zip, extract all, and run CapstoneRTS.exe. The game will
+open in a new window. Read on for lore and gameplay tutorial.
 -------------------------------------------------------------------------
 
 The following is a declassified mission document from the Huber Administration
@@ -43,7 +46,8 @@ TUTORIAL
 
 Now, Ardakia has 18 major towns. Each town has 3 values:
 - Loyalty
-	- Shows the percent of the population in a town that supports the government 
+	- Shows the percent of the population in a town that supports the government. Green towns
+	  have >50% loyalty.
 - Development 
 	- Shows the total economic value in a town, on a scale from 1-10
 - Corruption
